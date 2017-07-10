@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-#poj#1088
+#sloving poj problem 1088 using DFS
 
 import numpy as np
 
